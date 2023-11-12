@@ -7,7 +7,7 @@ import 'addstudent.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  var firebaseApp = await Firebase.initializeApp();
+
   runApp(MyApp());
 }
 
