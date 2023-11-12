@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "949512946098",
+    "firebase_url": "https://estudiantes2-300ac-default-rtdb.firebaseio.com",
+    "project_id": "estudiantes2-300ac",
+    "storage_bucket": "estudiantes2-300ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949512946098:android:9554f1cccbcf37f845e4ab",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3DoSRw6YF-eCWmVDUzsbpp9fN4QoMkH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
